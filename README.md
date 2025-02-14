@@ -1,5 +1,5 @@
 # Binabox - homework project
 
-Student: 
+1. Student: Oksana Vasylenko
 
-Mentor: 
+2. Mentor: Alexey Vasylenko
